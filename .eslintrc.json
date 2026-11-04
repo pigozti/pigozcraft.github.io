@@ -1,8 +1,0 @@
-{
-    "extends": "airbnb-base",
-    "rules": {
-        "linebreak-style": ["off", "always"],
-        "indent": ["off", "always"],
-        "semi": ["off", "always"]
-    }
-}
